@@ -1,0 +1,9 @@
+C:\Users\David\Documents\GitHub\projet_sbs\Editeur\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Map.xnb
+C:\Users\David\Documents\GitHub\projet_sbs\Editeur\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Valide.xnb
+C:\Users\David\Documents\GitHub\projet_sbs\Editeur\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Invalide.xnb
+C:\Users\David\Documents\GitHub\projet_sbs\Editeur\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Sunday Bloody Sunday.exe
+C:\Users\David\Documents\GitHub\projet_sbs\Editeur\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Sunday Bloody Sunday.pdb
+C:\Users\David\Documents\GitHub\projet_sbs\Editeur\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\GitHub\projet_sbs\Editeur\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Documents\GitHub\projet_sbs\Editeur\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\obj\x86\Debug\Sunday Bloody Sunday.exe
+C:\Users\David\Documents\GitHub\projet_sbs\Editeur\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\obj\x86\Debug\Sunday Bloody Sunday.pdb

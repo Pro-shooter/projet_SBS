@@ -1,0 +1,20 @@
+C:\Users\Alexis\SBS\Boulot réseau\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\Alexis\SBS\Boulot réseau\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\Alexis\SBS\Boulot réseau\Interface\Interface\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexis\SBS\Boulot réseau\Interface\Interface\obj\x86\Debug\Interface.exe
+C:\Users\Alexis\SBS\Boulot réseau\Interface\Interface\obj\x86\Debug\Interface.pdb
+C:\Users\Alexis\Boulot réseau\Encodage\Interface\Interface\obj\x86\Debug\Interface.exe
+C:\Users\Alexis\Boulot réseau\Encodage\Interface\Interface\obj\x86\Debug\Interface.pdb
+C:\Users\Alexis\Boulot réseau\Encodage\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\Alexis\Boulot réseau\Encodage\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\Alexis\Boulot réseau\Encodage\Interface\Interface\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexis\SBS\Interface\Interface\obj\x86\Debug\Interface.exe
+C:\Users\Alexis\SBS\Interface\Interface\obj\x86\Debug\Interface.pdb
+C:\Users\Alexis\SBS\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\Alexis\SBS\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\Alexis\SBS\Interface\Interface\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Interface\Interface\obj\x86\Debug\Interface.exe
+C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Interface\Interface\obj\x86\Debug\Interface.pdb
+C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Interface\Interface\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,1297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\gameFont.spritefont</Source>
+      <Name>Fonts\gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Fonts\gameFont.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\explosion.png</Source>
+      <Name>Imgs\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\explosion.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Chara.png</Source>
+      <Name>Imgs\Chara</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Chara.xnb</Output>
+      <Time>2013-04-28T14:15:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Title.png</Source>
+      <Name>Imgs\Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Title.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Map.png</Source>
+      <Name>Imgs\Map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Map.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\pikachu.png</Source>
+      <Name>Imgs\pikachu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\pikachu.xnb</Output>
+      <Time>2013-06-19T11:55:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\balle.png</Source>
+      <Name>Imgs\balle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\balle.xnb</Output>
+      <Time>2013-04-28T14:15:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Chara2.png</Source>
+      <Name>Imgs\Chara2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Chara2.xnb</Output>
+      <Time>2013-04-28T14:15:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Chara3.png</Source>
+      <Name>Imgs\Chara3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Chara3.xnb</Output>
+      <Time>2013-04-28T14:15:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\pikachu_2.png</Source>
+      <Name>Imgs\pikachu_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\pikachu_2.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\GameOver.png</Source>
+      <Name>Imgs\GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\GameOver.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\health_box.png</Source>
+      <Name>Imgs\health_box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\health_box.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\ammo_box.jpg</Source>
+      <Name>Imgs\ammo_box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\ammo_box.xnb</Output>
+      <Time>2013-04-28T14:15:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\explosive_box.png</Source>
+      <Name>Imgs\explosive_box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\explosive_box.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\bomb.png</Source>
+      <Name>Imgs\bomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\bomb.xnb</Output>
+      <Time>2013-04-28T14:15:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\thumbnails_map_01.png</Source>
+      <Name>Imgs\thumbnails_map_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\thumbnails_map_01.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Map02.png</Source>
+      <Name>Imgs\Map02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Map02.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Carabaffe.png</Source>
+      <Name>Imgs\Carabaffe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Carabaffe.xnb</Output>
+      <Time>2013-04-28T14:15:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Spectrum.png</Source>
+      <Name>Imgs\Spectrum</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Spectrum.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\thumbnails_map_02.png</Source>
+      <Name>Imgs\thumbnails_map_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\thumbnails_map_02.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\map03.png</Source>
+      <Name>Imgs\map03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\map03.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\thumbnails_map_03.png</Source>
+      <Name>Imgs\thumbnails_map_03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\thumbnails_map_03.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\cross.png</Source>
+      <Name>Imgs\cross</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\cross.xnb</Output>
+      <Time>2013-04-28T14:15:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\WinScreen.png</Source>
+      <Name>Imgs\WinScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\WinScreen.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Tortank.png</Source>
+      <Name>Imgs\Tortank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Tortank.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\blood.png</Source>
+      <Name>Imgs\blood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\blood.xnb</Output>
+      <Time>2013-04-28T14:15:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\thumbnails_map_04.png</Source>
+      <Name>Imgs\thumbnails_map_04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\thumbnails_map_04.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\rain.png</Source>
+      <Name>Imgs\rain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\rain.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\plane.png</Source>
+      <Name>Imgs\plane</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\plane.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\melodelf.png</Source>
+      <Name>Imgs\melodelf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\melodelf.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\eclair_attack.png</Source>
+      <Name>Imgs\eclair_attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\eclair_attack.xnb</Output>
+      <Time>2013-04-28T14:15:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\carabaffe_attack.png</Source>
+      <Name>Imgs\carabaffe_attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\carabaffe_attack.xnb</Output>
+      <Time>2013-04-28T14:15:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\fantominusattack.png</Source>
+      <Name>Imgs\fantominusattack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\fantominusattack.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\pika_attack.png</Source>
+      <Name>Imgs\pika_attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\pika_attack.xnb</Output>
+      <Time>2013-04-29T12:24:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\raichu_attack.png</Source>
+      <Name>Imgs\raichu_attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\raichu_attack.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\spectrum_attack.png</Source>
+      <Name>Imgs\spectrum_attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\spectrum_attack.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Map02_surcouche.png</Source>
+      <Name>Imgs\Map02_surcouche</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Map02_surcouche.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Map_Transparent.png</Source>
+      <Name>Imgs\Map_Transparent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Map_Transparent.xnb</Output>
+      <Time>2013-04-28T19:31:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Map04.png</Source>
+      <Name>Imgs\Map04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Map04.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Map05.png</Source>
+      <Name>Imgs\Map05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Map05.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\thumbnails_map_03_bonus.png</Source>
+      <Name>Imgs\thumbnails_map_03_bonus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\thumbnails_map_03_bonus.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\thumbnails_map_05.png</Source>
+      <Name>Imgs\thumbnails_map_05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\thumbnails_map_05.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Elector.png</Source>
+      <Name>Imgs\Elector</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Elector.xnb</Output>
+      <Time>2013-04-28T14:15:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Raichu.png</Source>
+      <Name>Imgs\Raichu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Raichu.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\tortank_attack.png</Source>
+      <Name>Imgs\tortank_attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\tortank_attack.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\credits.png</Source>
+      <Name>Imgs\credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\credits.xnb</Output>
+      <Time>2013-06-12T12:00:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\chat_box.png</Source>
+      <Name>Imgs\chat_box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\chat_box.xnb</Output>
+      <Time>2013-06-12T15:33:02+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\jetpack.png</Source>
+      <Name>Imgs\jetpack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\jetpack.xnb</Output>
+      <Time>2013-06-12T21:26:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Chara_jetpack.png</Source>
+      <Name>Imgs\Chara_jetpack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Chara_jetpack.xnb</Output>
+      <Time>2013-06-14T20:18:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\reset_progress.jpg</Source>
+      <Name>Imgs\reset_progress</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\reset_progress.xnb</Output>
+      <Time>2013-06-13T20:59:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Map06.png</Source>
+      <Name>Imgs\Map06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Map06.xnb</Output>
+      <Time>2013-06-16T15:39:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Map06_transparent.png</Source>
+      <Name>Imgs\Map06_transparent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Map06_transparent.xnb</Output>
+      <Time>2013-06-16T15:39:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Map09.png</Source>
+      <Name>Imgs\Map09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Map09.xnb</Output>
+      <Time>2013-06-14T20:05:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\thumbnails_map_09.png</Source>
+      <Name>Imgs\thumbnails_map_09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\thumbnails_map_09.xnb</Output>
+      <Time>2013-06-14T20:29:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\thumbnails_map_06.png</Source>
+      <Name>Imgs\thumbnails_map_06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\thumbnails_map_06.xnb</Output>
+      <Time>2013-06-14T20:32:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\molotov.png</Source>
+      <Name>Imgs\molotov</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\molotov.xnb</Output>
+      <Time>2013-06-15T17:18:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\fire.png</Source>
+      <Name>Imgs\fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\fire.xnb</Output>
+      <Time>2013-06-15T18:34:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\presents.png</Source>
+      <Name>Imgs\presents</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\presents.xnb</Output>
+      <Time>2013-06-16T15:20:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\logo_team_complet.png</Source>
+      <Name>Imgs\logo_team_complet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\logo_team_complet.xnb</Output>
+      <Time>2013-06-16T15:01:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\logo_team.png</Source>
+      <Name>Imgs\logo_team</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\logo_team.xnb</Output>
+      <Time>2013-06-16T15:08:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Map07.png</Source>
+      <Name>Imgs\Map07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Map07.xnb</Output>
+      <Time>2013-06-16T16:36:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Map07_transparent.png</Source>
+      <Name>Imgs\Map07_transparent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Map07_transparent.xnb</Output>
+      <Time>2013-06-16T16:36:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Map08_transparent.png</Source>
+      <Name>Imgs\Map08_transparent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Map08_transparent.xnb</Output>
+      <Time>2013-06-16T16:36:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\thumbnails_map_07.png</Source>
+      <Name>Imgs\thumbnails_map_07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\thumbnails_map_07.xnb</Output>
+      <Time>2013-06-16T16:42:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\thumbnails_map_08.png</Source>
+      <Name>Imgs\thumbnails_map_08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\thumbnails_map_08.xnb</Output>
+      <Time>2013-06-16T16:43:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Map08.png</Source>
+      <Name>Imgs\Map08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Map08.xnb</Output>
+      <Time>2013-06-16T16:52:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Map10.png</Source>
+      <Name>Imgs\Map10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Map10.xnb</Output>
+      <Time>2013-06-16T18:34:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Map11.png</Source>
+      <Name>Imgs\Map11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Map11.xnb</Output>
+      <Time>2013-06-17T18:56:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\thumbnails_map_10.png</Source>
+      <Name>Imgs\thumbnails_map_10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\thumbnails_map_10.xnb</Output>
+      <Time>2013-06-16T18:33:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\thumbnails_map_11.png</Source>
+      <Name>Imgs\thumbnails_map_11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\thumbnails_map_11.xnb</Output>
+      <Time>2013-06-16T18:34:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Map15.png</Source>
+      <Name>Imgs\Map15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Map15.xnb</Output>
+      <Time>2013-06-17T11:21:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Map12.png</Source>
+      <Name>Imgs\Map12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Map12.xnb</Output>
+      <Time>2013-06-17T18:56:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Map13.png</Source>
+      <Name>Imgs\Map13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Map13.xnb</Output>
+      <Time>2013-06-17T18:56:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Map14.png</Source>
+      <Name>Imgs\Map14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Map14.xnb</Output>
+      <Time>2013-06-17T18:56:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\thumbnails_map_12.png</Source>
+      <Name>Imgs\thumbnails_map_12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\thumbnails_map_12.xnb</Output>
+      <Time>2013-06-17T11:15:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\thumbnails_map_13.png</Source>
+      <Name>Imgs\thumbnails_map_13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\thumbnails_map_13.xnb</Output>
+      <Time>2013-06-17T11:15:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\thumbnails_map_14.png</Source>
+      <Name>Imgs\thumbnails_map_14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\thumbnails_map_14.xnb</Output>
+      <Time>2013-06-17T11:15:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\thumbnails_map_15.png</Source>
+      <Name>Imgs\thumbnails_map_15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\thumbnails_map_15.xnb</Output>
+      <Time>2013-06-17T11:15:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Map16.png</Source>
+      <Name>Imgs\Map16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Map16.xnb</Output>
+      <Time>2013-06-17T19:00:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\thumbnails_map_16.png</Source>
+      <Name>Imgs\thumbnails_map_16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\thumbnails_map_16.xnb</Output>
+      <Time>2013-06-17T18:54:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\bsod.jpg</Source>
+      <Name>Imgs\bsod</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\bsod.xnb</Output>
+      <Time>2013-06-18T16:54:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\warning.png</Source>
+      <Name>Imgs\warning</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\warning.xnb</Output>
+      <Time>2013-06-17T20:55:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\articodin.png</Source>
+      <Name>Imgs\articodin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\articodin.xnb</Output>
+      <Time>2013-06-18T12:38:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Loklas.png</Source>
+      <Name>Imgs\Loklas</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Loklas.xnb</Output>
+      <Time>2013-06-19T11:55:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\Loklasattack.png</Source>
+      <Name>Imgs\Loklasattack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\Loklasattack.xnb</Output>
+      <Time>2013-06-19T11:55:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\morse.png</Source>
+      <Name>Imgs\morse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\morse.xnb</Output>
+      <Time>2013-06-19T11:55:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\morseattack.png</Source>
+      <Name>Imgs\morseattack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\morseattack.xnb</Output>
+      <Time>2013-06-19T11:55:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\sulfura.png</Source>
+      <Name>Imgs\sulfura</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\sulfura.xnb</Output>
+      <Time>2013-06-18T12:38:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\turretf.png</Source>
+      <Name>Imgs\turretf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\turretf.xnb</Output>
+      <Time>2013-06-18T12:38:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\racaillou.png</Source>
+      <Name>Imgs\racaillou</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\racaillou.xnb</Output>
+      <Time>2013-06-18T12:38:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\racaillouattack.png</Source>
+      <Name>Imgs\racaillouattack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\racaillouattack.xnb</Output>
+      <Time>2013-06-18T12:38:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\bouboule.png</Source>
+      <Name>Imgs\bouboule</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\bouboule.xnb</Output>
+      <Time>2013-06-19T12:05:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\boubouleattack.png</Source>
+      <Name>Imgs\boubouleattack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\boubouleattack.xnb</Output>
+      <Time>2013-06-19T11:55:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\lamentin.png</Source>
+      <Name>Imgs\lamentin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\lamentin.xnb</Output>
+      <Time>2013-06-19T11:55:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\lamentinattack.png</Source>
+      <Name>Imgs\lamentinattack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\lamentinattack.xnb</Output>
+      <Time>2013-06-19T11:55:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\articodinattack.png</Source>
+      <Name>Imgs\articodinattack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\articodinattack.xnb</Output>
+      <Time>2013-06-18T20:10:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\electorattack.png</Source>
+      <Name>Imgs\electorattack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\electorattack.xnb</Output>
+      <Time>2013-06-18T20:10:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\ponyta.png</Source>
+      <Name>Imgs\ponyta</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\ponyta.xnb</Output>
+      <Time>2013-06-18T20:10:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\ponytaattack.png</Source>
+      <Name>Imgs\ponytaattack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\ponytaattack.xnb</Output>
+      <Time>2013-06-18T20:10:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\slugma.png</Source>
+      <Name>Imgs\slugma</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\slugma.xnb</Output>
+      <Time>2013-06-18T20:10:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\slugmaattack.png</Source>
+      <Name>Imgs\slugmaattack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\slugmaattack.xnb</Output>
+      <Time>2013-06-18T20:10:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imgs\sulfuraattack.png</Source>
+      <Name>Imgs\sulfuraattack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Imgs\sulfuraattack.xnb</Output>
+      <Time>2013-06-19T13:40:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\zombie_groan.wav</Source>
+      <Name>SoundEffects\zombie_groan</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\zombie_groan.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\explosion_effect.wav</Source>
+      <Name>SoundEffects\explosion_effect</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\explosion_effect.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\pop.wav</Source>
+      <Name>SoundEffects\pop</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\pop.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\raichu_son.wav</Source>
+      <Name>SoundEffects\raichu_son</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\raichu_son.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\raichu_son2.wav</Source>
+      <Name>SoundEffects\raichu_son2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\raichu_son2.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\blood_effect.wav</Source>
+      <Name>SoundEffects\blood_effect</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\blood_effect.xnb</Output>
+      <Time>2013-04-28T14:15:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\place_sentry.wav</Source>
+      <Name>SoundEffects\place_sentry</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\place_sentry.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\sentry_shoot.wav</Source>
+      <Name>SoundEffects\sentry_shoot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\sentry_shoot.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\plane_running.wav</Source>
+      <Name>SoundEffects\plane_running</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\plane_running.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\carabaffe_son.wav</Source>
+      <Name>SoundEffects\carabaffe_son</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\carabaffe_son.xnb</Output>
+      <Time>2013-04-28T14:15:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\spectrum_son.wav</Source>
+      <Name>SoundEffects\spectrum_son</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\spectrum_son.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\tortank_son.wav</Source>
+      <Name>SoundEffects\tortank_son</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\tortank_son.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\eclair_son.wav</Source>
+      <Name>SoundEffects\eclair_son</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\eclair_son.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\rain.wav</Source>
+      <Name>SoundEffects\rain</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\rain.xnb</Output>
+      <Time>2013-06-14T20:13:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\carabafe.wav</Source>
+      <Name>SoundEffects\carabafe</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\carabafe.xnb</Output>
+      <Time>2013-06-19T11:56:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\kaimorse.wav</Source>
+      <Name>SoundEffects\kaimorse</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\kaimorse.xnb</Output>
+      <Time>2013-06-19T11:56:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\loklas.wav</Source>
+      <Name>SoundEffects\loklas</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\loklas.xnb</Output>
+      <Time>2013-06-19T11:56:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\onigali.wav</Source>
+      <Name>SoundEffects\onigali</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\onigali.xnb</Output>
+      <Time>2013-06-19T11:56:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\otaria.wav</Source>
+      <Name>SoundEffects\otaria</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\otaria.xnb</Output>
+      <Time>2013-06-19T11:56:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\ponyta.wav</Source>
+      <Name>SoundEffects\ponyta</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\ponyta.xnb</Output>
+      <Time>2013-06-19T11:56:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\vulcaropod.wav</Source>
+      <Name>SoundEffects\vulcaropod</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\vulcaropod.xnb</Output>
+      <Time>2013-06-19T11:56:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\tire.MP3</Source>
+      <Name>SoundEffects\tire</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\tire.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\pikachu001.mp3</Source>
+      <Name>SoundEffects\pikachu001</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\pikachu001.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\pikachu002.mp3</Source>
+      <Name>SoundEffects\pikachu002</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\pikachu002.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\elevator_music.mp3</Source>
+      <Name>Music\elevator_music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Music\elevator_music.xnb</Output>
+      <Extra>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Music\elevator_music.wma</Extra>
+      <Time>2013-04-28T14:15:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\lose_effect.mp3</Source>
+      <Name>SoundEffects\lose_effect</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\lose_effect.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\gameplay_music.mp3</Source>
+      <Name>Music\gameplay_music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Music\gameplay_music.xnb</Output>
+      <Extra>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Music\gameplay_music.wma</Extra>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\win_effect.mp3</Source>
+      <Name>SoundEffects\win_effect</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\win_effect.xnb</Output>
+      <Time>2013-04-28T14:15:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\HightVoltage.mp3</Source>
+      <Name>Music\HightVoltage</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Music\HightVoltage.xnb</Output>
+      <Extra>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Music\HightVoltage.wma</Extra>
+      <Time>2013-04-28T21:08:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\BlackIce.mp3</Source>
+      <Name>Music\BlackIce</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Music\BlackIce.xnb</Output>
+      <Extra>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Music\BlackIce.wma</Extra>
+      <Time>2013-04-28T21:23:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\pika_pika_song.mp3</Source>
+      <Name>Music\pika_pika_song</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Music\pika_pika_song.xnb</Output>
+      <Extra>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Music\pika_pika_song.wma</Extra>
+      <Time>2013-06-17T19:15:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\beep.mp3</Source>
+      <Name>SoundEffects\beep</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\SoundEffects\beep.xnb</Output>
+      <Time>2013-06-17T20:30:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\rave_cat.mp3</Source>
+      <Name>Music\rave_cat</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Music\rave_cat.xnb</Output>
+      <Extra>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Music\rave_cat.wma</Extra>
+      <Time>2013-06-17T22:43:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Fire your guns.mp3</Source>
+      <Name>Music\Fire your guns</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Music\Fire your guns.xnb</Output>
+      <Extra>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Music\Fire your guns.wma</Extra>
+      <Time>2013-06-18T23:15:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Montagne.mp3</Source>
+      <Name>Music\Montagne</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Music\Montagne.xnb</Output>
+      <Extra>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Music\Montagne.wma</Extra>
+      <Time>2013-06-19T11:43:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Suspense.mp3</Source>
+      <Name>Music\Suspense</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Music\Suspense.xnb</Output>
+      <Extra>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\Music\Suspense.wma</Extra>
+      <Time>2013-06-19T11:51:28+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody SundayContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody SundayContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\David\Desktop\EPITA\site_SBS\release\projet_sbs_s4\Sunday Bloody Sunday\Sunday Bloody Sunday\Sunday Bloody Sunday\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-10-07T23:15:36.5570686+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
